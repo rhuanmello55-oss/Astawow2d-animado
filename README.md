@@ -1,5 +1,3 @@
-Para instalar: abra o Claude Code e diga: "Instale a skill deste repositório: https://github.com/rhuanmello55-oss/Astawow2d-animado"
-
 # 🎬 Asta wow 2D animado
 
 Skill para **Claude Code** (e outros agentes de IA) que cria vídeos de animação 2D completos, do roteiro ao MP4 final, 100% por código.
@@ -25,13 +23,17 @@ Cada frame é uma função pura do tempo (`seek(t)`) desenhada em canvas 2D. O P
 
 Confira tudo com: `bash scripts/check.sh`
 
-## 🚀 Como usar
+## 🚀 Instalação
 
-1. Instale a skill: `bash install.sh claude`
-2. Peça direto em uma frase, por exemplo: *"Faz um vídeo de 10 s do mercadinho"*
-   — ou use o comando `/animar <ideia>`
-   — ou preencha o formulário do `PROMPT_MESTRE.md`
-3. Receba o MP4 final renderizado
+Abra o Claude Code e diga:
+
+> Clone https://github.com/rhuanmello55-oss/Astawow2d-animado, extraia o arquivo astawow-2d-animator.zip e rode `bash astawow-2d-animator/install.sh claude`
+
+Ou manualmente:
+
+1. Baixe o repositório (Code → Download ZIP)
+2. Extraia o `astawow-2d-animator.zip` que está dentro
+3. Entre na pasta e rode: `bash install.sh claude`
 
 ## 📁 Estrutura
 
