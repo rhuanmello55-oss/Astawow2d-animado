@@ -1,3 +1,5 @@
+Para instalar: abra o Claude Code e diga: "Instale a skill deste repositório: https://github.com/rhuanmello55-oss/Astawow2d-animado"
+
 # 🎬 Asta wow 2D animado
 
 Skill para **Claude Code** (e outros agentes de IA) que cria vídeos de animação 2D completos, do roteiro ao MP4 final, 100% por código.
